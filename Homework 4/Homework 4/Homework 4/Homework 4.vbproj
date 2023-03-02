@@ -76,6 +76,12 @@
       <DependentUpon>Application.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Arc.vb" />
+    <Compile Include="UserNode.vb" />
+    <Compile Include="NetworkData.vb" />
+    <Compile Include="Network.vb" />
+    <Compile Include="Edge.vb" />
+    <Compile Include="Node.vb" />
     <Compile Include="MainWindow.xaml.vb">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

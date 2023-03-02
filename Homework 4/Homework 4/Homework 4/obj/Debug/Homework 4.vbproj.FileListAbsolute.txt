@@ -1,0 +1,18 @@
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\MainWindow.g.vb
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Application.g.vb
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4_MarkupCompile.cache
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4_MarkupCompile.lref
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\bin\Debug\Homework 4.exe.config
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\bin\Debug\Homework 4.exe
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\bin\Debug\Homework 4.pdb
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\bin\Debug\Homework 4.xml
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\MainWindow.baml
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.g.resources
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework_4.Resources.resources
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.GenerateResource.cache
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.exe
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.xml
+C:\Users\Grant\Desktop\BIT 4444\BIT4444\Homework 4\Homework 4\Homework 4\obj\Debug\Homework 4.pdb
